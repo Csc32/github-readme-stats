@@ -8,7 +8,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://github-readme-stats.vercel.app"
+      "destination": "http://github-readme-stats-csc32.vercel.app/"
     }
   ]
 }
